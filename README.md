@@ -5,8 +5,8 @@ I'm a third-year student at Częstochowa University of Technology, specializing 
 
 ## Technical Skills
 - **Programming Languages**: C++, C#, JavaScript (JS), CSS, HTML
-- **Other Technologies**: UML, PHP, SQL
-- **Tools**: Git, Visual Studio, Visual Studio Code, 
+- **Other Technologies**: UML, PHP, SQL, MySql, Bootstrap, MongoDB, 
+- **Tools**: Git, Visual Studio, Visual Studio Code, Matlab, 
 
 ## Interests
 - **Music**: I'm not just passionate about listening to music, but I also enjoy creating music. This creative outlet helps me think outside the box and improve my coding skills.

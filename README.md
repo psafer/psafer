@@ -1,7 +1,7 @@
 # Hello, I'm Peter! 👋
 
 ## About Me
-I'm a third-year student at Częstochowa University of Technology, specializing in web application design. I have a passion for frontend development and love to create engaging user experiences. My primary programming languages are C++ and C#, and I enjoy exploring the intricate details of each project I work on.
+I'm a fourth-year student at Częstochowa University of Technology, specializing in web application design. I have a passion for frontend development and love to create engaging user experiences. My primary programming languages are C++ and C#, and I enjoy exploring the intricate details of each project I work on.
 
 ## Technical Skills
 - **Programming Languages**: C++, C#, JavaScript (JS), CSS, HTML

@@ -29,7 +29,7 @@ A full-stack web application for managing books and libraries, utilizing modern 
 
 🔗 **GitHub Repository**: [Library-Project](https://github.com/psafer/Library-Project)
 
-### Neet Social Network 📚  
+### Neet Social Network 🔥
 A full-stack Socian Network Application, with firebase as a backend service.  
 
 🔗 **GitHub Repository**: [Neet](https://github.com/psafer/neet)  

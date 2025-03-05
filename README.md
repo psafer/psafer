@@ -6,8 +6,8 @@ I'm a full-stack developer with a strong passion for frontend development, speci
 ## 💻 Technical Skills  
 ### Frontend  
 - **Languages & Frameworks**: JavaScript (ES6+), HTML, CSS, React  
-- **Styling**: Tailwind CSS, CSS Modules, SASS  
-- **State Management**: Redux, Zustand, Pinia  
+- **Styling**: Tailwind CSS, CSS Modules,
+- **State Management**: Redux
 
 ### Backend  
 - **Languages & Runtime**: Node.js, C++, C#  
@@ -16,7 +16,7 @@ I'm a full-stack developer with a strong passion for frontend development, speci
 
 ### Other Technologies  
 - **Tools**: Git, UML, SQL  
-- **Cloud & Hosting**: Firebase, Vercel  
+- **Cloud & Hosting**: Firebase
 
 ## 🎵 Interests  
 - **Music** 🎸 – Besides coding, I love making music. Playing guitar and composing helps me stay creative and think outside the box.  
@@ -24,16 +24,21 @@ I'm a full-stack developer with a strong passion for frontend development, speci
 - **Tech & Coding** 💻 – Always exploring new technologies, improving my skills, and building cool projects.  
 
 ## 🚀 Projects  
-### Library-Project 📚  
+### Library Project 📚  
 A full-stack web application for managing books and libraries, utilizing modern web technologies.  
 
-🔗 **GitHub Repository**: [Library-Project](https://github.com/psafer/Library-Project)  
+🔗 **GitHub Repository**: [Library-Project](https://github.com/psafer/Library-Project)
+
+### Neet Social Network 📚  
+A full-stack Socian Network Application, with firebase as a backend service.  
+
+🔗 **GitHub Repository**: [Neet](https://github.com/psafer/neet)  
 
 🚧 *More projects coming soon...*  
 
 ## 📬 Let's Connect  
 - **GitHub**: [psafer](https://github.com/psafer)  
-- **LinkedIn**: [Piotr Cierpiał](https://www.linkedin.com/in/piotr-cierpiał-a8ab27305/)  
+- **LinkedIn**: [Piotr Cierpiał](https://www.linkedin.com/in/piotr-cierpiał/)  
 - **Email**: [piotr.cierpial@outlook.com](mailto:piotr.cierpial@outlook.com)  
 
 📩 Feel free to reach out for collaborations, tech discussions, or just a chat!  

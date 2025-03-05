@@ -34,6 +34,11 @@ A full-stack Social Network Application, with firebase as a backend service.
 
 🔗 **GitHub Repository**: [Neet](https://github.com/psafer/neet)  
 
+### My Curriculum Vitae 📄
+A modern front-end web application, with some information about me.  
+
+🔗 **GitHub Repository**: [CV](https://github.com/psafer/CV/tree/main/cv)  
+
 🚧 *More projects coming soon...*  
 
 ## 📬 Let's Connect  
